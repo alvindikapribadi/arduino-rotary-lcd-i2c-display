@@ -45,21 +45,46 @@ https://youtu.be/YOUR_VIDEO_LINK
 
 ---
 
+## 📷 Wiring Diagram
+
+![Wiring Diagram](diagram.png)
+
+> Make sure your wiring matches the diagram above before uploading the code.
+
+---
+
 ## 📦 Library Required
 
-⚠️ IMPORTANT:  
-Before uploading the code, make sure you install the required library.
+This project requires:
 
-### How to Install LiquidCrystal_I2C Library:
+LiquidCrystal_I2C Library (version 1.1.2 recommended)
+
+You can install it using one of the methods below:
+
+---
+
+### ✅ Method 1 — Install via Library Manager (Recommended)
 
 1. Open Arduino IDE  
 2. Go to **Sketch → Include Library → Manage Libraries**  
 3. Search for: `LiquidCrystal I2C`  
-4. Install the library named:
+4. Install the library  
 
-   **LiquidCrystal I2C by Frank de Brabander**
+---
 
-After installation, restart Arduino IDE if necessary.
+### ✅ Method 2 — Manual Installation (Included in This Repository)
+
+If you prefer manual installation:
+
+1. Download this repository
+2. Locate the file:
+   `LiquidCrystal_I2C-1.1.2.zip`
+3. Open Arduino IDE
+4. Go to **Sketch → Include Library → Add .ZIP Library**
+5. Select `LiquidCrystal_I2C-1.1.2.zip`
+6. Click Open
+
+Done ✅
 
 ---
 
