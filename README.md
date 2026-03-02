@@ -53,6 +53,16 @@ https://youtu.be/YOUR_VIDEO_LINK
 
 ---
 
+## 💻 Arduino Code
+
+You can download the Arduino sketch here:
+
+[Download Arduino Code](Arduino_Rotary___LCD_I2C_Display.ino)
+
+Or open the `.ino` file directly inside this repository.
+
+---
+
 ## 📦 Library Required
 
 This project requires:
