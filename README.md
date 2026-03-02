@@ -1,2 +1,82 @@
-# arduino-rotary-lcd-i2c-display
-Arduino Rotary Encoder controlled counter displayed on 16x2 LCD using I2C module. Beginner friendly project.
+# Arduino Rotary Encoder + LCD I2C Display
+
+This project demonstrates how to use a rotary encoder to control a counter value and display it on a 16x2 LCD with I2C module.
+
+Rotate clockwise to increase the value.  
+Rotate counter-clockwise to decrease the value.  
+Press the button to reset the value to zero.
+
+---
+
+## 🎥 YouTube Tutorial
+Watch the full tutorial here:
+https://youtu.be/YOUR_VIDEO_LINK
+
+---
+
+## 🧩 Components Used
+
+- Arduino Uno
+- Rotary Encoder (CLK, DT, SW)
+- 16x2 LCD with I2C module (PCF8574)
+- Breadboard
+- Jumper wires
+
+---
+
+## 🔌 Wiring
+
+### Rotary Encoder
+| Rotary Pin | Arduino Pin |
+|------------|------------|
+| CLK        | D2         |
+| DT         | D3         |
+| SW         | D4         |
+| VCC        | 5V         |
+| GND        | GND        |
+
+### LCD I2C
+| LCD Pin | Arduino Pin |
+|---------|------------|
+| VCC     | 5V         |
+| GND     | GND        |
+| SDA     | A4         |
+| SCL     | A5         |
+
+---
+
+## 📦 Library Required
+
+⚠️ IMPORTANT:  
+Before uploading the code, make sure you install the required library.
+
+### How to Install LiquidCrystal_I2C Library:
+
+1. Open Arduino IDE  
+2. Go to **Sketch → Include Library → Manage Libraries**  
+3. Search for: `LiquidCrystal I2C`  
+4. Install the library named:
+
+   **LiquidCrystal I2C by Frank de Brabander**
+
+After installation, restart Arduino IDE if necessary.
+
+---
+
+## 📌 Features
+
+- Real-time value update
+- Clockwise & Counter-clockwise detection
+- Button reset function
+- Clean wiring using I2C (only 4 wires for LCD)
+
+---
+
+## 👨‍💻 Author
+
+YouTube: https://youtube.com/@AlvinPribadi  
+GitHub: https://github.com/alvindikapribadi  
+
+---
+
+If this project helps you, don't forget to ⭐ star the repository!
