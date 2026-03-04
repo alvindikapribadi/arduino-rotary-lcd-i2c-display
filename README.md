@@ -106,12 +106,6 @@ Done ✅
 - Button reset function
 - Clean wiring using I2C (only 4 wires for LCD)
 
----
-
-## 👨‍💻 Author
-
-YouTube: https://youtube.com/@AlvinPribadi  
-GitHub: https://github.com/alvindikapribadi  
 
 ---
 
