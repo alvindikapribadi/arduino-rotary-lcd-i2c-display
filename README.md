@@ -10,7 +10,8 @@ Press the button to reset the value to zero.
 
 ## 🎥 YouTube Tutorial
 Watch the full tutorial here:
-[https://youtu.be/YOUR_VIDEO_LINK](https://youtu.be/BC7TfQAPqYM)
+
+https://youtu.be/BC7TfQAPqYM
 
 ---
 
