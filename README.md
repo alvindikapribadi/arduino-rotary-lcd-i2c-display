@@ -11,7 +11,7 @@ Press the button to reset the value to zero.
 ## 🎥 YouTube Tutorial
 Watch the full tutorial here:
 
-https://youtu.be/BC7TfQAPqYM
+[![Watch the video](https://img.youtube.com/vi/BC7TfQAPqYM/0.jpg)](https://youtu.be/BC7TfQAPqYM)
 
 ---
 
